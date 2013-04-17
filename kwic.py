@@ -1,4 +1,4 @@
-wordlist = open('input.txt', 'r').read().split()
+wordlist = open('input.tx', 'r').read().split()
 #print(wordlist)
 
 # Next we run a sliding window over the word list to create a list of n-grams. 
